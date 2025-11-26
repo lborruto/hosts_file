@@ -21204,4 +21204,4 @@
 0.0.0.0 appeal.grid-secureaccount.com sgupgradegold.com session.ssogservices.com sso-glogin.com 1send.grid-sso.com send.grid-secureaccount.com provider.ssogservices.com ssogservices.com send.grid-authority.com
 0.0.0.0 send.grid-network.com sso-gservices.com portal-sendgrld.com sso.portal-sendgrld.com diamond.portal-sendgrld.com login.portal-sendgrld.com managerewards-cbexchange.com internal-ssologin.com mange-accountsecurity.com
 0.0.0.0 service-settings.com secure-ssologins.com legalcompliance-login.com services-goo.com sendgrid.service-settings.com sendgrid.production-us12.com okta.ssologinservices.net aws-us3-manageprod.com myhubservices.com
-0.0.0.0 signon-directory.com okta.login-enterprisesso.com okta.login-request.com sso-accountservices.com
+0.0.0.0 signon-directory.com okta.login-enterprisesso.com okta.login-request.com sso-accountservices.com nike-careers-opportunity.com
